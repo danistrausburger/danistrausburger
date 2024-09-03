@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danistrausburger
 - 👀 I’m interested in computer science and graphic design
-- 🌱 I’m currently learning digital photography and software engineering
+- 🌱 I’m currently learning web design and web development
 
 
 <!---
